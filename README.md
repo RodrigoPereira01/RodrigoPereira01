@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoPereira01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-[![Rodrigo Pereira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoPereira01&theme=react-dark)](https://github.com/RodrigoPereira01/github-readme-activity-graph)
+<!-- [![Rodrigo Pereira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoPereira01&theme=react-dark)](https://github.com/RodrigoPereira01/github-readme-activity-graph) -->
 
 
 <p align="center">
