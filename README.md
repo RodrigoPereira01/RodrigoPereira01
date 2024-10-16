@@ -10,26 +10,25 @@
   <br>
   <p align="center">
       <h3>Frameworks, Platforms and Libraries</h3><br>
-      <br>
       <img src="https://skillicons.dev/icons?i=laravel,nestjs,nodejs,jquery,rabbitmq,vite,vue,nginx,bootstrap,tailwind" />
   </p>
   <br>
   <p align="center">
       <h3>Databases</h3><br>
-      <br>
       <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </p>
   <br>
   <p align="center">
-      <h3>Tools</h3><br>
-      <br>
+      <h3>Tools</h3></br>
       <img src="https://skillicons.dev/icons?i=github,vscode" />
   </p>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigoPereira01&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RodrigoPereira01}/count.svg" /></p> 
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RodrigoPereira01}/count.svg" /></p> 
 <br></div>
   
 
